@@ -278,6 +278,12 @@ tutao.tutanota.gui.initKnockout = function() {
 			var previousView = ko.bindingHandlers.slideView.previousView;
 			if (previousView != newView) {
 				var finishedHandler = function () {
+					// TODO remove, after https://github.com/rstacruz/jquery.transit/issues/158 has been fixed
+                    var views = $([newView, previousView]);
+					views.css('-webkit-transform', '');
+                    views.css('-ms-transform', '');
+                    views.css('transform', '');
+
 					ko.bindingHandlers.slideView.previousView = newView;
 					slideViewQueue.shift();
 					if (slideViewQueue.length > 0) {
@@ -293,14 +299,8 @@ tutao.tutanota.gui.initKnockout = function() {
 					finishedHandler();
 
 				} else {
-					$(previousView).animate({ top: '-100%' }, 400, function() {
-						$(previousView).css({display: "none"});
-					});
-
-					$(newView).animate({ top: '100%' }, 0, function() {
-						$(newView).css({display: "block"});
-						$(newView).animate({ top: '0%' }, 400, finishedHandler);
-					});
+					$(previousView).transition({ y: '-100%' }).transition({display: "none"}, 0);
+					$(newView).transition({ y: '100%' },0).transition({display: ""}, 0).transition({ y: '0%' }, finishedHandler);
 				}
 			} else {
 				slideViewQueue.shift();
@@ -834,7 +834,7 @@ tutao.tutanota.gui.viewPositionAndSizeReceiver = function(domElement, left, widt
             $(domElement).css("width", width + "px");
             resolve();
         } else {
-            $(domElement).animate({left: left + "px", width: width + "px"}, 300, function() {
+            $(domElement).transition({left: left + "px", width: width + "px"}, 300, function() {
                 setTimeout(function() {
                     resolve();
                 }, 0);
