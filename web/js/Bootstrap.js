@@ -111,13 +111,13 @@ tutao.tutanota.Bootstrap.init = function () {
 					var windowHeight = $(window).height();
 					var targetHeight = windowHeight - e.keyboardHeight;
 					if ( element.height() != targetHeight){
-						element.velocity({height: targetHeight + "px"}, { duration: 100 });
+						element.animate({height: targetHeight + "px"}, 100);
 					}
 				});
 			
 				window.addEventListener('native.keyboardhide', function (){
 					var element = $("body");
-					element.velocity({height: "100%"}, { duration: 100 });
+					element.animate({height: "100%"}, 100);
 				});
 				
 				StatusBar.styleDefault();
