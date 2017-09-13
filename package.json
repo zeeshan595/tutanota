@@ -1,48 +1,18 @@
 {
   "name": "tutanota",
-  "version": "2.14.6",
-  "description": "secure mail client",
-  "main": "gulpfile.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron .",
+    "build_linux": "electron-packager . --overwrite --platform=linux --arch=x64 --icon=graphics/linux.png --prune=true --out=release-builds",
+    "build_win": "electron-packager . --overwrite --platform=win32 --arch=ia32 --icon=graphics/win.ico --prune=true --out=release-builds",
+    "build_mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=graphics/mac.icns --prune=true --out=release-builds"
   },
-  "author": "Tutao GmbH",
-  "license": "Copyright Tutao GmbH",
+  "author": "Zeeshan Abid",
+  "license": "ISC",
   "devDependencies": {
-    "async": "^0.9.0",
-    "chai": "~1.9.1",
-    "chai-as-promised": "^4.1.1",
-    "event-stream": "~3.1.7",
-    "gulp": "^3.8.7",
-    "gulp-appcache": "0.0.4",
-    "gulp-clean": "~0.3.1",
-    "gulp-concat": "~2.3.4",
-    "gulp-filter": "~1.0.0",
-    "gulp-gzip": "0.0.8",
-    "gulp-html-replace": "~1.1.0",
-    "gulp-inject": "~1.0.1",
-    "gulp-insert": "~0.4.0",
-    "gulp-less": "~1.3.3",
-    "gulp-merge": "^0.1.1",
-    "gulp-minify-css": "~0.3.7",
-    "gulp-replace": "~0.4.0",
-    "gulp-shell": "^0.2.9",
-    "gulp-sort": "1.0.1",
-    "gulp-sourcemaps": "~1.1.0",
-    "gulp-uglify": "~0.3.1",
-    "karma": "~0.12.16",
-    "karma-chai": "~0.1.0",
-    "karma-chai-plugins": "^0.2.3",
-    "karma-chrome-launcher": "~0.1.4",
-    "karma-firefox-launcher": "~0.1.3",
-    "karma-junit-reporter": "~0.2.2",
-    "karma-mocha": "~0.1.4",
-    "mkdirp": "0.5.0",
-    "request": "^2.51.0",
-    "run-sequence": "~0.3.6",
-    "streamqueue": "^0.1.1"
-  },
-  "dependencies": {
-    "merge-stream": "~0.1.5"
+    "electron": "^1.7.5",
+    "electron-packager": "^8.7.2"
   }
 }
