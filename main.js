@@ -21,8 +21,6 @@ app.on('ready', () => {
     slashes: true
   }));
 
-  main_window.width = 1400;
-
   //Developer tools
   //main_window.toggleDevTools();
 
