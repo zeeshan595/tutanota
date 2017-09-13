@@ -8,7 +8,6 @@ e0278bcf5eca1513122849dab553f802  index.html.gz
 b66f9c342ba31d35d5f53eeea4020638  main.js
 f5e5dee297d1e8f3e88b3be0d32c8989  manifest.webapp
 45c139dacfb10ae59e4ad8be9ee3d074  manifest.webapp.gz
-16410914d2b04f6d3473aa28aa43acbd  md5sum.txt
 b247a774837dce4049c37dd59209b5c6  messages.html
 661e9d44efee33e5e065e5180b049922  messages.html.gz
 136b70741d2e14e9049e411b2f9c7f86  operative-0.3.1.js
