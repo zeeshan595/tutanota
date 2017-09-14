@@ -1,191 +1,200 @@
 {
     "md5sum": [
-    {
-        "size": "ace96854497982f3606d63fac67b2441",  
-        "file": "./pay/init.js"
-    },{
-        "size": "4edb90d4618466e760c329d4a4e2b1e7",  
-        "file": "./pay/pay.min.js.map.gz"
-    },{
-        "size": "9d12116289e0594fc6e5fbc2c0313f17",  
-        "file": "./pay/pay.min.js.gz"
-    },{
-        "size": "a91cfa13004583eca7c637502785c848",  
-        "file": "./pay/init.js.gz"
-    },{
-        "size": "cf88d6c17d09b5f47c73dcd973dd4323",  
-        "file": "./pay/pay.min.js.map"
-    },{
-        "size": "eb8eb3d3befd6ea8c50c6e2d3eb42677",  
-        "file": "./pay/pay.min.js"
-    },{
-        "size": "a76fc60f6d96bc02009061b8ecf87da7",  
-        "file": "./index.html"
-    },{
-        "size": "923eb7d9524c7b338b13bd4da7fdd368",  
-        "file": "./init.js"
-    },{
-        "size": "3c6437b306c8e5a2b45ece0f1e743782",  
-        "file": "./css/main.css"
-    },{
-        "size": "319e39e96bd1009f0ed350d5d1a20043",  
-        "file": "./css/main.css.gz"
-    },{
-        "size": "ab1edffb3edfe61821e4d5f61b4ff4c8",  
-        "file": "./tutanota.appcache"
-    },{
-        "size": "f5e5dee297d1e8f3e88b3be0d32c8989",  
-        "file": "./manifest.webapp"
-    },{
-        "size": "136b70741d2e14e9049e411b2f9c7f86",  
-        "file": "./operative-0.3.1.js"
-    },{
-        "size": "97ae0419e2966988646cac00c49b3b01",  
-        "file": "./init.js.gz"
-    },{
-        "size": "472ada3c4f9afe4eb3418e47d4ef6544",  
-        "file": "./worker.min.js"
-    },{
-        "size": "51ad21c39565fb64ab02f7a39c2f71ba",  
-        "file": "./payment.html"
-    },{
-        "size": "ed4061e23b6ed82adad621aea41e1100",  
-        "file": "./tutanota.appcache.gz"
-    },{
-        "size": "899eaa393dacbda05f9633655b84cba2",  
-        "file": "./operative-0.3.1.js.gz"
-    },{
-        "size": "99923005d95bbf2f31ffbb66b9935f5f",  
-        "file": "./worker.min.js.map"
-    },{
-        "size": "2216acdbdfef935e3d2d464a4d77b280",  
-        "file": "./payment.html.gz"
-    },{
-        "size": "360fc86ea03f449e01cb8946d08e82f9",  
-        "file": "./graphics/google-plus.png"
-    },{
-        "size": "6f71a45a2c56742c984ceee32c7e4a49",  
-        "file": "./graphics/apple-touch-icon-114x114-precomposed.png"
-    },{
-        "size": "4ab391578bd66a95033fe66137153eda",  
-        "file": "./graphics/mac.icns"
-    },{
-        "size": "0b0e62dda11c6468985d1fec4864283c",  
-        "file": "./graphics/apple-touch-icon-60x60-precomposed.png"
-    },{
-        "size": "d90195784191159f4c16132ac120d493",  
-        "file": "./graphics/win.ico"
-    },{
-        "size": "b3d2df8263d95e29259dacfe319908fc",  
-        "file": "./graphics/ion-alert-circled.svg"
-    },{
-        "size": "7d89b208fb6145f48f16395c7549352e",  
-        "file": "./graphics/favicon/favicon-32x32.png"
-    },{
-        "size": "212ec61d391d27af33e25dc0de9f5638",  
-        "file": "./graphics/favicon/favicon-96x96.png"
-    },{
-        "size": "028ba31530583212e1476c1d11876b3f",  
-        "file": "./graphics/favicon/android-icon-192x192.png"
-    },{
-        "size": "7dc90d0f5ed7c1f3a61ceca554eb3d08",  
-        "file": "./graphics/favicon/favicon-16x16.png"
-    },{
-        "size": "409d5460e665da9d5ef800d695573d32",  
-        "file": "./graphics/twitter.png"
-    },{
-        "size": "163531ba2b2e70f7bdf3044d6c798f37",  
-        "file": "./graphics/facebook.png"
-    },{
-        "size": "721840aaf62828e5d00297ce7681557e",  
-        "file": "./graphics/apple-touch-icon-72x72-precomposed.png"
-    },{
-        "size": "d6a6a69ab8699e29556329f38f39e689",  
-        "file": "./graphics/icon.svg"
-    },{
-        "size": "e40f20965a96ce19ededae6c47e8746d",  
-        "file": "./graphics/apple-touch-icon-57x57-precomposed.png"
-    },{
-        "size": "a84dbf01081db9895c924dbbcbe93482",  
-        "file": "./graphics/hab.png"
-    },{
-        "size": "27dcdf3eba9ddb7c493829032544d6cd",  
-        "file": "./graphics/apple-touch-icon-128x128-precomposed.png"
-    },{
-        "size": "cf415a85e45a62fc374b045da13d2975",  
-        "file": "./graphics/linux.png"
-    },{
-        "size": "dc7b7889b4c59b42848d7d3b67e97e4b",  
-        "file": "./worker.min.js.gz"
-    },{
-        "size": "661e9d44efee33e5e065e5180b049922",  
-        "file": "./messages.html.gz"
-    },{
-        "size": "b247a774837dce4049c37dd59209b5c6",  
-        "file": "./messages.html"
-    },{
-        "size": "45c139dacfb10ae59e4ad8be9ee3d074",  
-        "file": "./manifest.webapp.gz"
-    },{
-        "size": "de2fa7ec6222528c7e5ac08e5f905c64",  
-        "file": "./test/mocha.css.gz"
-    },{
-        "size": "9c65c461c024191e4fc3aaaa93143421",  
-        "file": "./test/mocha.css"
-    },{
-        "size": "fedf3c8eb5bfe217042be500e7deecab",  
-        "file": "./app.min.js"
-    },{
-        "size": "e0278bcf5eca1513122849dab553f802",  
-        "file": "./index.html.gz"
-    },{
-        "size": "e7b2d400774f954f6fc977948de52068",  
-        "file": "./package.json"
-    },{
-        "size": "773d23e6460cfddcfe844050e71ca5e9",  
-        "file": "./app.min.js.gz"
-    },{
-        "size": "9a92721d33ea724062d92eb23867f7d2",  
-        "file": "./.gitignore"
-    },{
-        "size": "0433bf6cff14bcedf80325444df20055",  
-        "file": "./terms.html.gz"
-    },{
-        "size": "1c945decd4f0d1e1d122821fb3ff7e97",  
-        "file": "./fonts/icomoon.svg"
-    },{
-        "size": "3a3e4c4ddbecd6bd63e17a4057d0771c",  
-        "file": "./fonts/ionicons/ionicons.ttf"
-    },{
-        "size": "152c291c7e65a07a6587ab148e2fe4c6",  
-        "file": "./fonts/ionicons/ionicons.eot"
-    },{
-        "size": "c51d32dd8aa851634aa8f7f4d1e0e819",  
-        "file": "./fonts/ionicons/ionicons.woff"
-    },{
-        "size": "ac3c50e4cfa03a5a48b39821746107a2",  
-        "file": "./fonts/ionicons/ionicons.svg"
-    },{
-        "size": "4c98d96d74c343532f382cbbccb0d153",  
-        "file": "./fonts/icomoon.eot"
-    },{
-        "size": "3279c9f4fcbc7ba341f553f150a0ece3",  
-        "file": "./fonts/icomoon.woff"
-    },{
-        "size": "bbd4a9162d252d56da90bccc09c4f18e",  
-        "file": "./fonts/icomoon.ttf"
-    },{
-        "size": "0f2e3ef76f7bb25d91d4b18c5f2c7256",  
-        "file": "./app.min.js.map"
-    },{
-        "size": "949497999e00b9e14af6fa976c0651e5",  
-        "file": "./terms.html"
-    },{
-        "size": "7545c44c70946a692f6d8f34e1c938d0",  
-        "file": "./main.js"
-    },{
-        "size": "7e1139c4a415f707ea52b999536283a4",
-        "file": "./update_checker.html"
-    }
+        { 
+            "size": "ace96854497982f3606d63fac67b2441",  
+            "file": "./pay/init.js"
+        },{ 
+            "size": "4edb90d4618466e760c329d4a4e2b1e7",  
+            "file": "./pay/pay.min.js.map.gz"
+        },{ 
+            "size": "9d12116289e0594fc6e5fbc2c0313f17",  
+            "file": "./pay/pay.min.js.gz"
+        },{ 
+            "size": "a91cfa13004583eca7c637502785c848",  
+            "file": "./pay/init.js.gz"
+        },{ 
+            "size": "cf88d6c17d09b5f47c73dcd973dd4323",  
+            "file": "./pay/pay.min.js.map"
+        },{ 
+            "size": "eb8eb3d3befd6ea8c50c6e2d3eb42677",  
+            "file": "./pay/pay.min.js"
+        },{ 
+            "size": "a76fc60f6d96bc02009061b8ecf87da7",  
+            "file": "./index.html"
+        },{ 
+            "size": "923eb7d9524c7b338b13bd4da7fdd368",  
+            "file": "./init.js"
+        },{ 
+            "size": "3c6437b306c8e5a2b45ece0f1e743782",  
+            "file": "./css/main.css"
+        },{ 
+            "size": "319e39e96bd1009f0ed350d5d1a20043",  
+            "file": "./css/main.css.gz"
+        },{ 
+            "size": "ab1edffb3edfe61821e4d5f61b4ff4c8",  
+            "file": "./tutanota.appcache"
+        },{ 
+            "size": "a1293aef32206fed6d0696bc27199d28",  
+            "file": "./updator.js"
+        },{ 
+            "size": "f5e5dee297d1e8f3e88b3be0d32c8989",  
+            "file": "./manifest.webapp"
+        },{ 
+            "size": "136b70741d2e14e9049e411b2f9c7f86",  
+            "file": "./operative-0.3.1.js"
+        },{ 
+            "size": "97ae0419e2966988646cac00c49b3b01",  
+            "file": "./init.js.gz"
+        },{ 
+            "size": "472ada3c4f9afe4eb3418e47d4ef6544",  
+            "file": "./worker.min.js"
+        },{ 
+            "size": "51ad21c39565fb64ab02f7a39c2f71ba",  
+            "file": "./payment.html"
+        },{ 
+            "size": "ed4061e23b6ed82adad621aea41e1100",  
+            "file": "./tutanota.appcache.gz"
+        },{ 
+            "size": "c0392c50f7b7af8c1effb441a9241c39",  
+            "file": "./md5sum.json"
+        },{ 
+            "size": "5ba43fd03e26e09c7682b12c5ea7d2cb",  
+            "file": "./updator.html"
+        },{ 
+            "size": "899eaa393dacbda05f9633655b84cba2",  
+            "file": "./operative-0.3.1.js.gz"
+        },{ 
+            "size": "99923005d95bbf2f31ffbb66b9935f5f",  
+            "file": "./worker.min.js.map"
+        },{ 
+            "size": "2216acdbdfef935e3d2d464a4d77b280",  
+            "file": "./payment.html.gz"
+        },{ 
+            "size": "360fc86ea03f449e01cb8946d08e82f9",  
+            "file": "./graphics/google-plus.png"
+        },{ 
+            "size": "6f71a45a2c56742c984ceee32c7e4a49",  
+            "file": "./graphics/apple-touch-icon-114x114-precomposed.png"
+        },{ 
+            "size": "4ab391578bd66a95033fe66137153eda",  
+            "file": "./graphics/mac.icns"
+        },{ 
+            "size": "0b0e62dda11c6468985d1fec4864283c",  
+            "file": "./graphics/apple-touch-icon-60x60-precomposed.png"
+        },{ 
+            "size": "d90195784191159f4c16132ac120d493",  
+            "file": "./graphics/win.ico"
+        },{ 
+            "size": "b3d2df8263d95e29259dacfe319908fc",  
+            "file": "./graphics/ion-alert-circled.svg"
+        },{ 
+            "size": "7d89b208fb6145f48f16395c7549352e",  
+            "file": "./graphics/favicon/favicon-32x32.png"
+        },{ 
+            "size": "212ec61d391d27af33e25dc0de9f5638",  
+            "file": "./graphics/favicon/favicon-96x96.png"
+        },{ 
+            "size": "028ba31530583212e1476c1d11876b3f",  
+            "file": "./graphics/favicon/android-icon-192x192.png"
+        },{ 
+            "size": "7dc90d0f5ed7c1f3a61ceca554eb3d08",  
+            "file": "./graphics/favicon/favicon-16x16.png"
+        },{ 
+            "size": "409d5460e665da9d5ef800d695573d32",  
+            "file": "./graphics/twitter.png"
+        },{ 
+            "size": "163531ba2b2e70f7bdf3044d6c798f37",  
+            "file": "./graphics/facebook.png"
+        },{ 
+            "size": "721840aaf62828e5d00297ce7681557e",  
+            "file": "./graphics/apple-touch-icon-72x72-precomposed.png"
+        },{ 
+            "size": "d6a6a69ab8699e29556329f38f39e689",  
+            "file": "./graphics/icon.svg"
+        },{ 
+            "size": "e40f20965a96ce19ededae6c47e8746d",  
+            "file": "./graphics/apple-touch-icon-57x57-precomposed.png"
+        },{ 
+            "size": "a84dbf01081db9895c924dbbcbe93482",  
+            "file": "./graphics/hab.png"
+        },{ 
+            "size": "27dcdf3eba9ddb7c493829032544d6cd",  
+            "file": "./graphics/apple-touch-icon-128x128-precomposed.png"
+        },{ 
+            "size": "cf415a85e45a62fc374b045da13d2975",  
+            "file": "./graphics/linux.png"
+        },{ 
+            "size": "dc7b7889b4c59b42848d7d3b67e97e4b",  
+            "file": "./worker.min.js.gz"
+        },{ 
+            "size": "661e9d44efee33e5e065e5180b049922",  
+            "file": "./messages.html.gz"
+        },{ 
+            "size": "b247a774837dce4049c37dd59209b5c6",  
+            "file": "./messages.html"
+        },{ 
+            "size": "45c139dacfb10ae59e4ad8be9ee3d074",  
+            "file": "./manifest.webapp.gz"
+        },{ 
+            "size": "de2fa7ec6222528c7e5ac08e5f905c64",  
+            "file": "./test/mocha.css.gz"
+        },{ 
+            "size": "9c65c461c024191e4fc3aaaa93143421",  
+            "file": "./test/mocha.css"
+        },{ 
+            "size": "fedf3c8eb5bfe217042be500e7deecab",  
+            "file": "./app.min.js"
+        },{ 
+            "size": "e0278bcf5eca1513122849dab553f802",  
+            "file": "./index.html.gz"
+        },{ 
+            "size": "e7b2d400774f954f6fc977948de52068",  
+            "file": "./package.json"
+        },{ 
+            "size": "773d23e6460cfddcfe844050e71ca5e9",  
+            "file": "./app.min.js.gz"
+        },{ 
+            "size": "9a92721d33ea724062d92eb23867f7d2",  
+            "file": "./.gitignore"
+        },{ 
+            "size": "0433bf6cff14bcedf80325444df20055",  
+            "file": "./terms.html.gz"
+        },{ 
+            "size": "1c945decd4f0d1e1d122821fb3ff7e97",  
+            "file": "./fonts/icomoon.svg"
+        },{ 
+            "size": "3a3e4c4ddbecd6bd63e17a4057d0771c",  
+            "file": "./fonts/ionicons/ionicons.ttf"
+        },{ 
+            "size": "152c291c7e65a07a6587ab148e2fe4c6",  
+            "file": "./fonts/ionicons/ionicons.eot"
+        },{ 
+            "size": "c51d32dd8aa851634aa8f7f4d1e0e819",  
+            "file": "./fonts/ionicons/ionicons.woff"
+        },{ 
+            "size": "ac3c50e4cfa03a5a48b39821746107a2",  
+            "file": "./fonts/ionicons/ionicons.svg"
+        },{ 
+            "size": "4c98d96d74c343532f382cbbccb0d153",  
+            "file": "./fonts/icomoon.eot"
+        },{ 
+            "size": "3279c9f4fcbc7ba341f553f150a0ece3",  
+            "file": "./fonts/icomoon.woff"
+        },{ 
+            "size": "bbd4a9162d252d56da90bccc09c4f18e",  
+            "file": "./fonts/icomoon.ttf"
+        },{ 
+            "size": "0f2e3ef76f7bb25d91d4b18c5f2c7256",  
+            "file": "./app.min.js.map"
+        },{ 
+            "size": "949497999e00b9e14af6fa976c0651e5",  
+            "file": "./terms.html"
+        },{ 
+            "size": "2f0a9d4cdf716002938579287eb31861",  
+            "file": "./main.js"
+        },{ 
+            "size": "7e1139c4a415f707ea52b999536283a4",  
+            "file": "./update_checker.html"
+        }
     ]
 }
